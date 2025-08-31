@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "c:/code/tiny_code/leet",
+    "command": "C:\\msys64\\mingw64\\bin\\clang++.exe -std=c++17 -g -O0 src/main.cpp -o bin/main.exe",
+    "file": "c:/code/tiny_code/leet/src/main.cpp"
+  }
+]

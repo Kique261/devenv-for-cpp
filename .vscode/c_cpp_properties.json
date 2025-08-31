@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Win32-Clang-MSYS2",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/msys64/mingw64/include/**",
+                "C:/msys64/mingw64/include/c++/15.2.0/**",
+                "C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/msys64/mingw64/bin/clang++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "${workspaceFolder}/.vscode/compile_commands.json",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "${workspaceFolder}/src",
+                    "C:/msys64/mingw64/include",
+                    "C:/msys64/mingw64/lib"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
